@@ -213,3 +213,21 @@ hero area
     left: 1045px;
     color: #ffffff;
 }
+  /* footer */
+  .footer{
+      background-color: #0A0826;
+      padding-bottom: 50px;
+  }
+  .footer .footer-info{
+      text-align: center;
+      color: #ffffff;
+      padding-top: 50px;
+  }
+  .footer .social{
+     display: flex;
+     justify-content: center;
+     margin-top: 24px;
+  }
+  .footer .social .social-distance{
+      padding-right: 16px;
+  }
