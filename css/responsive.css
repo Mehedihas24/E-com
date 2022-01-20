@@ -1,0 +1,14 @@
+@media only screen and (max-width: 360px){
+    .newsletter{
+        background-color:#E02C6D;;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .newsletter .form .email{
+        height: 40px;
+        width: 160px;
+    }
+    .form .eml-button{
+        height: 40px;
+        width: 80px;
+    }
